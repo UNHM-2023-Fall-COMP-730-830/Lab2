@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+C:\Users\to1044\OneDrive - USNH\Courses\2023_Fall_COMP730_830\Laboratory\GitHub\Lab2\.metadata\.plugins\org.eclipse.jdt.core
+2193050879.index
+1504044372.index
+1865797976.index
+597473181.index

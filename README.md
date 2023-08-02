@@ -16,13 +16,13 @@
 
 3. Go to Lab2_Work.
 4. Review Lab2.java, which includes `main()`. You don't need to make any changes to this file.
-5. Complete the `Planet` class in the `Planet` file.
+5. :computer: **Complete the `Planet` class in the `Planet` file.**
 
 ![](Lab2_Images/Planet_Class.jpg)
 
 * The weight is calculated by mass * surfaceGravity.
 
-6. Complete the `PlanetData` class in the `PlanetData` file.
+6. :computer: **Complete the `PlanetData` class in the `PlanetData` file.**
 
 ![](Lab2_Images/PlanetData_Class.jpg)
 
